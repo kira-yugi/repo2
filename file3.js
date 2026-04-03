@@ -1,7 +1,2 @@
-// file3.js
-
-// JavaScript code for client-side data visualization
-
-function renderChart(data) {
-    // Render chart using Chart.js
-}
+// This JavaScript file enables real-time data visualization in a web application.
+// It interacts with a backend service to fetch data periodically.
