@@ -1,0 +1,7 @@
+# Visualization Content
+
+This file contains various visual representation methods.
+
+- Use Matplotlib for plotting data.
+- Use Seaborn for statistical graphics.
+- Use Plotly for interactive plots.
